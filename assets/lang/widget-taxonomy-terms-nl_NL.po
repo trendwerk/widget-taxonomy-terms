@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-03-20 14:54+0100\n"
+"PO-Revision-Date: 2015-03-20 14:54+0100\n"
+"Last-Translator: Harold <harold@trendwerk.nl>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class-tp-taxonomy-terms.php:32
+msgid "Term list"
+msgstr "Term lijst"
+
+#: class-tp-taxonomy-terms.php:33
+msgid "List of terms from a given taxonomy"
+msgstr "Lijst van termen uit een bepaalde taxonomie"
+
+#: class-tp-taxonomy-terms.php:53
+msgid "Title"
+msgstr "Titel"
+
+#: class-tp-taxonomy-terms.php:61
+msgid "Taxonomy"
+msgstr "Taxonomie"
