@@ -29,7 +29,7 @@ class TP_Taxonomy_Terms_Plugin {
 class TP_Taxonomy_Terms extends WP_Widget {
 
 	function __construct() {
-		$this->WP_Widget( 'TP_Taxonomy_Terms', __( 'Term list', 'widget-taxonomy-terms' ), array(
+		parent::__construct( 'TP_Taxonomy_Terms', __( 'Term list', 'widget-taxonomy-terms' ), array(
 			'description' => __( 'List of terms from a given taxonomy', 'widget-taxonomy-terms' )
 		) );
 	}
